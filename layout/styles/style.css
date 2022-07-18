@@ -783,6 +783,7 @@ header::after {
 
     .technology__btn {
         right: 50px;
+        top: 40vh;
     }
 }
 
